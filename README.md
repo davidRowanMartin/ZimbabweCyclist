@@ -1,3 +1,3 @@
-# ZimbabweCyclist
-Zimbabwe Cyclists 
-is a web application that allows cyclist to register. By registering they create an account that will keep track of the events they have entered, store the photos they have taken and log their race results.
+# PhotoUpload
+Upload Photos
+This is a small application that was developed to select files from a local machine and upload them to a server. The photo needs to meet certain condition and have certain parameters before it can be uploaded.
